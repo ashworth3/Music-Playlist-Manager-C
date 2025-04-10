@@ -1,0 +1,11 @@
+genre	artist_name	song_title	track_id	popularity
+Pop	Taylor Swift	Anti-Hero	TS123	95
+Rock	Queen	Bohemian Rhapsody	QN001	100
+Hip-Hop	Kendrick Lamar	HUMBLE.	KL777	90
+Pop	Ed Sheeran	Shape of You	ES456	85
+Rock	Nirvana	Smells Like Teen Spirit	NV321	92
+EDM	Calvin Harris	Feels	CH888	88
+Hip-Hop	Drake	God's Plan	DR999	91
+Country	Johnny Cash	Ring of Fire	JC001	80
+Jazz	Miles Davis	So What	MD002	75
+Indie	Tame Impala	The Less I Know the Better	TI555	89

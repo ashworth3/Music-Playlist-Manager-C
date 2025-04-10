@@ -1,0 +1,13 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/andreashworth/Documents/Programs-Projects/Music Playlist Manager in C/music-manager'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100002BDC, symSize: 0x7FC }
+  - { offsetInCU: 0xC5, offset: 0xC5, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100002BDC, symSize: 0x7FC }
+  - { offsetInCU: 0x1EF, offset: 0x1EF, size: 0x8, addend: 0x0, symName: _readInSongs, symObjAddr: 0x7FC, symBinAddr: 0x1000033D8, symSize: 0x2F8 }
+  - { offsetInCU: 0x2AB, offset: 0x2AB, size: 0x8, addend: 0x0, symName: _generateUniqueGenres, symObjAddr: 0xAF4, symBinAddr: 0x1000036D0, symSize: 0x16C }
+  - { offsetInCU: 0x356, offset: 0x356, size: 0x8, addend: 0x0, symName: _printGenresAndCounts, symObjAddr: 0xC60, symBinAddr: 0x10000383C, symSize: 0x70 }
+  - { offsetInCU: 0x37C, offset: 0x37C, size: 0x8, addend: 0x0, symName: _printSongList, symObjAddr: 0xCD0, symBinAddr: 0x1000038AC, symSize: 0xF4 }
+  - { offsetInCU: 0x3CE, offset: 0x3CE, size: 0x8, addend: 0x0, symName: _isNumber, symObjAddr: 0xDC4, symBinAddr: 0x1000039A0, symSize: 0x118 }
+  - { offsetInCU: 0x433, offset: 0x433, size: 0x8, addend: 0x0, symName: _loadSongsByGenre, symObjAddr: 0xEDC, symBinAddr: 0x100003AB8, symSize: 0x25C }
+...
