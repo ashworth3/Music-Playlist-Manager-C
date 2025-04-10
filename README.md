@@ -13,19 +13,18 @@ A terminal-based music organizer written in C. This program reads songs from a f
 ---
 
 ## Input Commands
-**n** – next 10 songs
-**p** – previous 10 songs
-**g** – go to start
-**e** – go to end
-**q** – quit the program
-**Number (e.g. 0, 1)** – filter songs by genre
-**r** – reset the filter
+- **n** – next 10 songs
+- **p** – previous 10 songs
+- **g** – go to start
+- **e** – go to end
+- **q** – quit the program
+- **Number (e.g. 0, 1)** – filter songs by genre
+- **r** – reset the filter
 
 ---
 
 ## How to Compile
 Use any C compiler. Example with `gcc`:
-```bash
 gcc main.c -o music_manager
 
 ---
