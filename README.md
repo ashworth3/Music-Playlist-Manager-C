@@ -1,4 +1,4 @@
-# 🎵 Music Playlist Manager (C)
+# 🎵 Music Playlist Manager
 
 A terminal-based music organizer written in C. This program reads songs from a file and allows users to browse, filter by genre, and navigate songs using an intuitive command-line interface.
 
@@ -37,7 +37,7 @@ gcc music_manager.c -o music_manager
 ## Notes
 - Written in C using standard libraries
 - Designed for Unix terminal environments
-- Excellent practice in file I/O, dynamic memory management (C), and linked lists
+- Excellent practice in file I/O, dynamic memory management, and linked lists
 
 ---
 
