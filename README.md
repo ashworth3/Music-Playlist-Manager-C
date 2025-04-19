@@ -25,7 +25,9 @@ A terminal-based music organizer written in C. This program reads songs from a f
 
 ## How to Compile
 Use any C compiler. Example with `gcc`:
+```bash
 gcc music_manager.c -o music_manager
+```
 
 ---
 
